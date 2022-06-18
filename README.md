@@ -21,4 +21,4 @@
 
 I can be reached at cj310@scarletmail.rutgers.edu
 
-![alt text](Screenshot.jpg)
+![alt text](./images/Screenshot.jpg)
